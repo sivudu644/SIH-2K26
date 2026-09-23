@@ -1,0 +1,9 @@
+event_date,discipline,activity_code,description,quantity,unit,percent_complete,location,remarks
+2026-09-15,piping,PIP-001,CS pipe spool fabrication 8 inch completed,24,spools,100,Fab Yard Area A,All spools released for erection
+2026-09-15,piping,PIP-002,SS piping erection 6 inch at rack,35,percent,35,Unit 100 Rack R1,First lift done
+2026-09-15,piping,PIP-004,Header H-201 welding joints completed,85,joints,71,Unit 200 Header Area,78 joints RT cleared
+2026-09-15,piping,PIP-005,Pipe support erection on pipe rack,40,supports,42,Pipe Rack PR-01,Ongoing
+2026-09-15,piping,PIP-008,4 inch firewater line installation,90,percent,90,Utility Area,Expected completion this week
+2026-09-10,piping,PIP-001,CS spool fabrication ongoing,20,spools,83,Fab Yard Area A,4 spools remaining
+2026-09-10,piping,PIP-004,Welding at header H-201,72,joints,60,Unit 200 Header Area,RT pass rate 95%
+2026-09-05,piping,PIP-008,Firewater utility piping progress,75,percent,75,Utility Area,On track

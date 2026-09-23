@@ -1,0 +1,9 @@
+report_date,trade,ref_no,work_description,qty_done,uom,cumulative_pct,area,notes
+2026-09-15,civil,CIV-001,RCC foundation compressor C-101 second lift concrete pour,1,lift,85,Compressor Area,Curing in progress
+2026-09-15,civil,CIV-002,Earth removal and levelling Unit 200 plot,2800,cum,95,Unit 200 Plot,Dewatering deployed
+2026-09-15,civil,CIV-003,Driven pile installation heavy equipment area,45,piles,56,Equipment Area EA-1,On track
+2026-09-15,civil,CIV-006,Pedestal and anchor bolt work pipe rack PR-01,12,pedestals,67,Pipe Rack PR-01,12 of 18 done
+2026-09-15,civil,CIV-004,Cable trench excavation and RCC first section,200,meters,20,Main Cable Route,Just started
+2026-09-15,civil,CIV-007,Plant road grading and sub-base layer,60,percent,60,Plant Access Roads,Progressing well
+2026-09-10,civil,CIV-001,Compressor foundation first lift complete,1,lift,70,Compressor Area,Formwork stripped
+2026-09-10,civil,CIV-002,Excavation at Unit 200 ongoing,2500,cum,85,Unit 200 Plot,On schedule

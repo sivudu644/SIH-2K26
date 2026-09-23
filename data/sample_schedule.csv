@@ -1,0 +1,33 @@
+activity_id,wbs,discipline,description,planned_start,planned_finish,location,status
+PIP-001,1.1.1,piping,8 inch carbon steel pipe spool fabrication,2026-07-01,2026-08-15,Fab Yard Area A,in_progress
+PIP-002,1.1.2,piping,6 inch stainless steel pipe installation - Unit 100,2026-07-15,2026-09-01,Unit 100 - Rack R1,not_started
+PIP-003,1.1.3,piping,Hydrostatic pressure testing of piping circuit PC-101,2026-09-05,2026-09-20,Unit 100,not_started
+PIP-004,1.1.4,piping,Weld joint completion for header H-201,2026-07-10,2026-08-30,Unit 200 - Header Area,in_progress
+PIP-005,1.1.5,piping,Pipe support installation at pipe rack PR-01,2026-08-01,2026-09-15,Pipe Rack PR-01,not_started
+PIP-006,1.1.6,piping,Flange bolt-up and gasket installation line L-301,2026-09-01,2026-10-01,Unit 300,not_started
+PIP-007,1.1.7,piping,Insulation work on hot piping circuits,2026-09-15,2026-10-30,Units 100-300,not_started
+PIP-008,1.1.8,piping,4 inch utility piping installation - firewater,2026-07-20,2026-09-10,Utility Area,in_progress
+PIP-009,1.1.9,piping,Valve installation and tagging for Unit 200,2026-08-15,2026-09-30,Unit 200,not_started
+PIP-010,1.2.1,piping,Pigging and flushing of process lines,2026-10-01,2026-10-20,All Units,not_started
+CIV-001,2.1.1,civil,Reinforced concrete foundation for compressor C-101,2026-06-15,2026-08-01,Compressor Area,in_progress
+CIV-002,2.1.2,civil,Earthwork and excavation for Unit 200 foundations,2026-06-20,2026-07-30,Unit 200 Plot,in_progress
+CIV-003,2.1.3,civil,Piling work for heavy equipment foundation,2026-07-01,2026-08-15,Equipment Area EA-1,not_started
+CIV-004,2.1.4,civil,Underground cable trench construction,2026-07-15,2026-09-01,Main Cable Route,not_started
+CIV-005,2.1.5,civil,Control room building structural steelwork,2026-08-01,2026-10-15,Control Room Area,not_started
+CIV-006,2.1.6,civil,Pipe rack foundation and pedestal construction,2026-06-25,2026-08-20,Pipe Rack PR-01,in_progress
+CIV-007,2.1.7,civil,Road and access way construction,2026-07-10,2026-09-15,Plant Access Roads,not_started
+CIV-008,2.1.8,civil,Fireproofing application on steel structures,2026-09-01,2026-10-30,All Units,not_started
+CIV-009,2.1.9,civil,Boundary wall and fencing installation,2026-08-15,2026-10-01,Plant Boundary,not_started
+CIV-010,2.2.1,civil,Storm water drainage system construction,2026-07-20,2026-09-30,Plant Wide,not_started
+ELE-001,3.1.1,electrical,Main power transformer installation 33kV/6.6kV,2026-08-01,2026-09-30,Substation Area,not_started
+ELE-002,3.1.2,electrical,HT cable pulling and termination 6.6kV,2026-08-15,2026-10-15,Cable Gallery CG-01,not_started
+ELE-003,3.1.3,electrical,LT power cable laying for Unit 100 motors,2026-07-15,2026-09-01,Unit 100 MCC Room,not_started
+ELE-004,3.1.4,electrical,Motor control center MCC-01 installation,2026-08-01,2026-09-15,MCC Room 1,not_started
+ELE-005,3.1.5,electrical,Lighting installation for process area,2026-09-01,2026-10-30,Process Areas,not_started
+ELE-006,3.1.6,electrical,Earthing and grounding grid installation,2026-07-01,2026-08-30,Plant Wide,in_progress
+ELE-007,3.1.7,electrical,Cable tray and ladder installation,2026-07-20,2026-09-15,Cable Routes,not_started
+ELE-008,3.1.8,electrical,Emergency diesel generator installation,2026-09-01,2026-10-30,DG Room,not_started
+ELE-009,3.1.9,electrical,Junction box and marshalling panel installation,2026-08-15,2026-10-01,Field Junction Areas,not_started
+ELE-010,3.2.1,electrical,Substation bus bar and switchgear installation,2026-08-01,2026-10-15,Main Substation,not_started
+ELE-011,3.2.2,electrical,Variable frequency drive VFD installation,2026-09-15,2026-11-01,VFD Room,not_started
+ELE-012,3.2.3,electrical,Fire alarm and detection system installation,2026-09-01,2026-11-15,Plant Wide,not_started

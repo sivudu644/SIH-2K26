@@ -1,0 +1,35 @@
+DAILY PROGRESS REPORT — ELECTRICAL DISCIPLINE
+Project: Oil India Greenfield Expansion
+Date: 2026-09-15
+Prepared by: Electrical Superintendent
+
+WEATHER: Clear, 30°C
+
+MANPOWER:
+- Electricians: 22
+- Cable Jointers: 8
+- Helpers: 18
+- Supervisor: 3
+
+ACTIVITIES COMPLETED / IN PROGRESS:
+
+1. Earth grid installation across plant area — buried copper conductor laying 75% complete. Grounding work commenced 01-Jul-2026.
+
+2. Cable tray erection along main cable route corridors — 60% of trays and ladder racks installed. Installation started 25-Jul-2026.
+
+3. LT power cable pulling for Unit 100 area motors — 12 out of 30 cables pulled and terminated. Work started 01-Sep-2026.
+
+4. Received 33kV/6.6kV main power transformer at site. Foundation ready, transformer positioning scheduled for next week.
+
+5. Junction boxes installed at 15 field locations out of 40 planned. JB and marshalling panel work began 20-Aug-2026.
+
+6. Emergency DG set foundation and civil works completed. DG equipment arrival expected next month.
+
+ISSUES:
+- HT cable (6.6kV grade) shipment delayed by 2 weeks from vendor. Cable pulling cannot commence until materials arrive.
+- MCC-01 panels stuck in customs clearance — expected release in 5 days.
+
+TOMORROW'S PLAN:
+- Continue earthing grid burial in southern section
+- Pull next batch of LT cables for Unit 100 pump motors
+- Install cable trays in section CG-01
