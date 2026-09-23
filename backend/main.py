@@ -72,6 +72,18 @@ reviews_router.add_api_route("/{match_id}/reject", reject_match, methods=["POST"
 app.include_router(reviews_router)
 
 
+@app.get("/", tags=["Root"])
+async def root():
+    """Root endpoint directing visitors to documentation."""
+    return {
+        "message": "SIH26122 - InfraSync AI Backend API is running successfully.",
+        "service": "InfraSync AI",
+        "documentation": "/docs",
+        "health": "/health",
+        "mode": "DEMO MODE",
+    }
+
+
 @app.get("/health", tags=["Health"])
 async def health_check():
     """Health check endpoint."""
@@ -81,6 +93,7 @@ async def health_check():
         "mode": "DEMO MODE",
         "ai_provider": settings.AI_PROVIDER,
     }
+
 
 
 if __name__ == "__main__":
