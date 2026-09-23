@@ -11,7 +11,7 @@ class Settings:
 
     # Server
     HOST: str = os.getenv("SIH_HOST", "0.0.0.0")
-    PORT: int = int(os.getenv("SIH_PORT", "8000"))
+    PORT: int = int(os.getenv("PORT", os.getenv("SIH_PORT", "8000")))
     DEBUG: bool = os.getenv("SIH_DEBUG", "true").lower() == "true"
 
     # Database
@@ -35,12 +35,17 @@ class Settings:
     UPLOAD_DIR: Path = PROJECT_ROOT / "uploads"
 
     # CORS
-    CORS_ORIGINS: list[str] = [
-        "http://localhost:5173",
-        "http://localhost:3000",
-        "http://127.0.0.1:5173",
-        "http://127.0.0.1:3000",
-    ]
+    _cors_env: str = os.getenv("SIH_CORS_ORIGINS", "")
+    CORS_ORIGINS: list[str] = (
+        [o.strip() for o in _cors_env.split(",") if o.strip()]
+        if _cors_env
+        else [
+            "http://localhost:5173",
+            "http://localhost:3000",
+            "http://127.0.0.1:5173",
+            "http://127.0.0.1:3000",
+        ]
+    )
 
 
 settings = Settings()

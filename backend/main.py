@@ -46,10 +46,11 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
-# CORS middleware for React Vite frontend
+# CORS middleware for React Vite frontend (supports localhost and Render domains)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=settings.CORS_ORIGINS,
+    allow_origin_regex=r"https://.*\.onrender\.com",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
